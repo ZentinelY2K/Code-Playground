@@ -50,4 +50,4 @@ with open ("/home/zentinely2k/Documents/Y2K-Zone/Code-Playground/AI_Learning_Jou
       write.writerow([lol1,lol2,lol3,lol4,0]) # any public
 
 
-
+#
