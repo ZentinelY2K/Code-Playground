@@ -15,3 +15,10 @@ def count_add_percy(pages):
 count_per_line = count_add_percy(mentions)
 for line in count_per_line:
     print(line)
+
+
+    
+
+
+
+

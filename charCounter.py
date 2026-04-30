@@ -15,3 +15,4 @@ if run_or_not():
 elif run_or_not() == False:
    print("Remember to just input a single character")
 print(f"{character} appeared a total of: {counter} times in {message}")
+
