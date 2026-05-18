@@ -1,7 +1,6 @@
 import csv
 import random as rm
 
-
 def build_private_ip_address():
 
     choose_first_octet = [192,172,10]
